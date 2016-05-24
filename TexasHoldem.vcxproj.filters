@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="cpp">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="h">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="visual">
+      <UniqueIdentifier>{a8bd7103-3bd1-4bc7-b7c6-eda4a672d9e4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Carta.h">
+      <Filter>h</Filter>
+    </ClInclude>
+    <ClInclude Include="Baraja.h">
+      <Filter>h</Filter>
+    </ClInclude>
+    <ClInclude Include="Jugador.h">
+      <Filter>h</Filter>
+    </ClInclude>
+    <ClInclude Include="Interfaz.h">
+      <Filter>h</Filter>
+    </ClInclude>
+    <ClInclude Include="Administrador.h">
+      <Filter>h</Filter>
+    </ClInclude>
+    <ClInclude Include="main.h">
+      <Filter>h</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>visual</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>visual</Filter>
+    </ClInclude>
+    <ClInclude Include="Mensajes.h">
+      <Filter>h</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="Carta.cpp">
+      <Filter>cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="Baraja.cpp">
+      <Filter>cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="Jugador.cpp">
+      <Filter>cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="Interfaz.cpp">
+      <Filter>cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="Administrador.cpp">
+      <Filter>cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>visual</Filter>
+    </ClCompile>
+    <ClCompile Include="Mensajes.cpp">
+      <Filter>cpp</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
